@@ -1,0 +1,1 @@
+print('Tumatae si Teo')
